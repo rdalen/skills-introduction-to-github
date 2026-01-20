@@ -73,17 +73,10 @@ In this exercise, you will:
 - Copy the images URL and paste it into your README.md file
 
 ## New lines inside a paragraph in README.md
-Ensure that each line ends with two spaces. So, change
+Ensure that each line ends with two spaces. So,
 ```
-a
-b
-c
-```
-into
-
-...
 a__
 b__
 c
-...
+'''
 (where _ is a blank space).
