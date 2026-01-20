@@ -66,8 +66,8 @@ In this exercise, you will:
 
 # myTips  
 
-## How to add images to README.md on GitHub?  
+## How to add images to README.md?  
 
 - create a New Issue
-- upload(drag & drop) images to it
-- Copy the images URL and paste it into your README.md file.
+- upload (drag & drop) images to it
+- Copy the images URL and paste it into your README.md file
