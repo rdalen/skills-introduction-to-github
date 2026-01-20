@@ -72,6 +72,15 @@ In this exercise, you will:
 - upload (drag & drop) images to it
 - Copy the images URL and paste it into your README.md file
 
+## Add Code blocks in README.md
+place triple backticks ``` before and after the code block
+So,
+```
+This is a codeblock
+```
+You can find the backtick (`) on the key to the left of the number '1', together with the tilde (~).
+
+
 ## New lines inside a paragraph in README.md
 Ensure that each line ends with two spaces. So,
 ```
