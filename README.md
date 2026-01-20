@@ -73,7 +73,7 @@ In this exercise, you will:
 - Copy the images URL and paste it into your README.md file
 
 ## Add Code blocks in README.md
-place triple backticks ``` before and after the code block
+Place triple backticks ``` before and after the code block
 So,
 ```
 This is a codeblock
