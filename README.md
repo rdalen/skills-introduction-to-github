@@ -78,5 +78,5 @@ Ensure that each line ends with two spaces. So,
 a__
 b__
 c
-'''
+```
 (where _ is a blank space).
