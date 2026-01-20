@@ -71,3 +71,19 @@ In this exercise, you will:
 - create a New Issue
 - upload (drag & drop) images to it
 - Copy the images URL and paste it into your README.md file
+
+## New lines inside a paragraph in README.md
+The easiest way is to ensure that each line ends with two spaces. So, change
+...
+a
+b
+c
+...
+into
+
+...
+a__
+b__
+c
+...
+(where _ is a blank space).
